@@ -1,0 +1,36 @@
+.body {
+    background-color: aquamarine;
+}
+
+.div {
+    height: 10000;
+    width: 1300px;
+}
+
+.button {
+    border: none;
+    color: white;
+    padding: 10px 18px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: #4CAF50;
+}
+
+.h1 {
+    text-shadow: black 2px 2px;
+    color: rgb(243, 50, 16);
+}
+
+.h2 {
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    padding: 27px px;
+}
